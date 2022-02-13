@@ -1,5 +1,5 @@
 # pylogin | @riz4d
-# github : https://github.com/riz4d/pylogin-temp
+# github : https://github.com/riz4d/pylogin
 # -------------------------------------------------
 import time
 users = {
